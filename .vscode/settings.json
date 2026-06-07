@@ -1,0 +1,28 @@
+{
+  // SQLite Explorer — automatically opens the project database
+  "sqlite.databases": [
+    "${workspaceFolder}/data/capacity_forecast.db"
+  ],
+
+  // Python interpreter — use the backend venv
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/Scripts/python.exe",
+
+  // Editor settings
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+
+  // File associations
+  "files.associations": {
+    "*.db": "sqlite"
+  },
+
+  // Explorer — hide compiled/venv clutter
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/venv": true,
+    "**/*.pyc": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.git": true
+  }
+}

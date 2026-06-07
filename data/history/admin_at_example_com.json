@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "SYpttb0X1v4",
+    "created_at": "2026-06-06T14:22:09.181196",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is forecasted to reach 80% around 2026-07-01 (using linear regression).",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": "2026-07-01",
+    "forecast_engine": "linear_regression",
+    "forecast_days": 60,
+    "method": "linear",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "usage": 60.0
+      },
+      {
+        "date": "2026-06-02",
+        "usage": 61.0
+      },
+      {
+        "date": "2026-06-03",
+        "usage": 62.0
+      },
+      {
+        "date": "2026-06-04",
+        "usage": 63.0
+      },
+      {
+        "date": "2026-06-05",
+        "usage": 64.0
+      },
+      {
+        "date": "2026-06-06",
+        "usage": 65.0
+      },
+      {
+        "date": "2026-06-07",
+        "usage": 66.0
+      },
+      {
+        "date": "2026-06-08",
+        "usage": 67.0
+      },
+      {
+        "date": "2026-06-09",
+        "usage": 68.0
+      },
+      {
+        "date": "2026-06-10",
+        "usage": 69.0
+      },
+      {
+        "date": "2026-06-11",
+        "usage": 70.0
+      },
+      {
+        "date": "2026-06-12",
+        "usage": 71.0
+      },
+      {
+        "date": "2026-06-13",
+        "usage": 72.0
+      },
+      {
+        "date": "2026-06-14",
+        "usage": 73.0
+      },
+      {
+        "date": "2026-06-15",
+        "usage": 74.0
+      },
+      {
+        "date": "2026-06-16",
+        "usage": 75.0
+      },
+      {
+        "date": "2026-06-17",
+        "usage": 76.0
+      },
+      {
+        "date": "2026-06-18",
+        "usage": 77.0
+      },
+      {
+        "date": "2026-06-19",
+        "usage": 78.0
+      },
+      {
+        "date": "2026-06-20",
+        "usage": 79.0
+      },
+      {
+        "date": "2026-06-21",
+        "usage": 80.0
+      },
+      {
+        "date": "2026-06-22",
+        "usage": 81.0
+      },
+      {
+        "date": "2026-06-23",
+        "usage": 82.0
+      },
+      {
+        "date": "2026-06-24",
+        "usage": 83.0
+      },
+      {
+        "date": "2026-06-25",
+        "usage": 84.0
+      },
+      {
+        "date": "2026-06-26",
+        "usage": 85.0
+      },
+      {
+        "date": "2026-06-27",
+        "usage": 86.0
+      },
+      {
+        "date": "2026-06-28",
+        "usage": 87.0
+      },
+      {
+        "date": "2026-06-29",
+        "usage": 88.0
+      },
+      {
+        "date": "2026-06-30",
+        "usage": 89.0
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-07-01",
+        "predicted_usage": 90.0
+      },
+      {
+        "date": "2026-07-02",
+        "predicted_usage": 91.0
+      },
+      {
+        "date": "2026-07-03",
+        "predicted_usage": 92.0
+      },
+      {
+        "date": "2026-07-04",
+        "predicted_usage": 93.0
+      },
+      {
+        "date": "2026-07-05",
+        "predicted_usage": 94.0
+      },
+      {
+        "date": "2026-07-06",
+        "predicted_usage": 95.0
+      },
+      {
+        "date": "2026-07-07",
+        "predicted_usage": 96.0
+      },
+      {
+        "date": "2026-07-08",
+        "predicted_usage": 97.0
+      },
+      {
+        "date": "2026-07-09",
+        "predicted_usage": 98.0
+      },
+      {
+        "date": "2026-07-10",
+        "predicted_usage": 99.0
+      },
+      {
+        "date": "2026-07-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-29",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-30",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-06",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-07",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-08",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-09",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-10",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-29",
+        "predicted_usage": 100
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: linear regression",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  },
+  {
+    "id": "d2k05jPTIoY",
+    "created_at": "2026-06-06T14:21:44.983423",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is forecasted to reach 80% around 2026-07-01 (using linear regression).",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": "2026-07-01",
+    "forecast_engine": "linear_regression",
+    "forecast_days": 60,
+    "method": "linear",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "usage": 60.0
+      },
+      {
+        "date": "2026-06-02",
+        "usage": 61.0
+      },
+      {
+        "date": "2026-06-03",
+        "usage": 62.0
+      },
+      {
+        "date": "2026-06-04",
+        "usage": 63.0
+      },
+      {
+        "date": "2026-06-05",
+        "usage": 64.0
+      },
+      {
+        "date": "2026-06-06",
+        "usage": 65.0
+      },
+      {
+        "date": "2026-06-07",
+        "usage": 66.0
+      },
+      {
+        "date": "2026-06-08",
+        "usage": 67.0
+      },
+      {
+        "date": "2026-06-09",
+        "usage": 68.0
+      },
+      {
+        "date": "2026-06-10",
+        "usage": 69.0
+      },
+      {
+        "date": "2026-06-11",
+        "usage": 70.0
+      },
+      {
+        "date": "2026-06-12",
+        "usage": 71.0
+      },
+      {
+        "date": "2026-06-13",
+        "usage": 72.0
+      },
+      {
+        "date": "2026-06-14",
+        "usage": 73.0
+      },
+      {
+        "date": "2026-06-15",
+        "usage": 74.0
+      },
+      {
+        "date": "2026-06-16",
+        "usage": 75.0
+      },
+      {
+        "date": "2026-06-17",
+        "usage": 76.0
+      },
+      {
+        "date": "2026-06-18",
+        "usage": 77.0
+      },
+      {
+        "date": "2026-06-19",
+        "usage": 78.0
+      },
+      {
+        "date": "2026-06-20",
+        "usage": 79.0
+      },
+      {
+        "date": "2026-06-21",
+        "usage": 80.0
+      },
+      {
+        "date": "2026-06-22",
+        "usage": 81.0
+      },
+      {
+        "date": "2026-06-23",
+        "usage": 82.0
+      },
+      {
+        "date": "2026-06-24",
+        "usage": 83.0
+      },
+      {
+        "date": "2026-06-25",
+        "usage": 84.0
+      },
+      {
+        "date": "2026-06-26",
+        "usage": 85.0
+      },
+      {
+        "date": "2026-06-27",
+        "usage": 86.0
+      },
+      {
+        "date": "2026-06-28",
+        "usage": 87.0
+      },
+      {
+        "date": "2026-06-29",
+        "usage": 88.0
+      },
+      {
+        "date": "2026-06-30",
+        "usage": 89.0
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-07-01",
+        "predicted_usage": 90.0
+      },
+      {
+        "date": "2026-07-02",
+        "predicted_usage": 91.0
+      },
+      {
+        "date": "2026-07-03",
+        "predicted_usage": 92.0
+      },
+      {
+        "date": "2026-07-04",
+        "predicted_usage": 93.0
+      },
+      {
+        "date": "2026-07-05",
+        "predicted_usage": 94.0
+      },
+      {
+        "date": "2026-07-06",
+        "predicted_usage": 95.0
+      },
+      {
+        "date": "2026-07-07",
+        "predicted_usage": 96.0
+      },
+      {
+        "date": "2026-07-08",
+        "predicted_usage": 97.0
+      },
+      {
+        "date": "2026-07-09",
+        "predicted_usage": 98.0
+      },
+      {
+        "date": "2026-07-10",
+        "predicted_usage": 99.0
+      },
+      {
+        "date": "2026-07-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-29",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-30",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-06",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-07",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-08",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-09",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-10",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-29",
+        "predicted_usage": 100
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: linear regression",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  },
+  {
+    "id": "RXMe2Xkb1EQ",
+    "created_at": "2026-06-06T14:21:35.866547",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is forecasted to reach 80% around 2026-07-01 (using linear regression).",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": "2026-07-01",
+    "forecast_engine": "linear_regression",
+    "forecast_days": 60,
+    "method": "linear",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "usage": 60.0
+      },
+      {
+        "date": "2026-06-02",
+        "usage": 61.0
+      },
+      {
+        "date": "2026-06-03",
+        "usage": 62.0
+      },
+      {
+        "date": "2026-06-04",
+        "usage": 63.0
+      },
+      {
+        "date": "2026-06-05",
+        "usage": 64.0
+      },
+      {
+        "date": "2026-06-06",
+        "usage": 65.0
+      },
+      {
+        "date": "2026-06-07",
+        "usage": 66.0
+      },
+      {
+        "date": "2026-06-08",
+        "usage": 67.0
+      },
+      {
+        "date": "2026-06-09",
+        "usage": 68.0
+      },
+      {
+        "date": "2026-06-10",
+        "usage": 69.0
+      },
+      {
+        "date": "2026-06-11",
+        "usage": 70.0
+      },
+      {
+        "date": "2026-06-12",
+        "usage": 71.0
+      },
+      {
+        "date": "2026-06-13",
+        "usage": 72.0
+      },
+      {
+        "date": "2026-06-14",
+        "usage": 73.0
+      },
+      {
+        "date": "2026-06-15",
+        "usage": 74.0
+      },
+      {
+        "date": "2026-06-16",
+        "usage": 75.0
+      },
+      {
+        "date": "2026-06-17",
+        "usage": 76.0
+      },
+      {
+        "date": "2026-06-18",
+        "usage": 77.0
+      },
+      {
+        "date": "2026-06-19",
+        "usage": 78.0
+      },
+      {
+        "date": "2026-06-20",
+        "usage": 79.0
+      },
+      {
+        "date": "2026-06-21",
+        "usage": 80.0
+      },
+      {
+        "date": "2026-06-22",
+        "usage": 81.0
+      },
+      {
+        "date": "2026-06-23",
+        "usage": 82.0
+      },
+      {
+        "date": "2026-06-24",
+        "usage": 83.0
+      },
+      {
+        "date": "2026-06-25",
+        "usage": 84.0
+      },
+      {
+        "date": "2026-06-26",
+        "usage": 85.0
+      },
+      {
+        "date": "2026-06-27",
+        "usage": 86.0
+      },
+      {
+        "date": "2026-06-28",
+        "usage": 87.0
+      },
+      {
+        "date": "2026-06-29",
+        "usage": 88.0
+      },
+      {
+        "date": "2026-06-30",
+        "usage": 89.0
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-07-01",
+        "predicted_usage": 90.0
+      },
+      {
+        "date": "2026-07-02",
+        "predicted_usage": 91.0
+      },
+      {
+        "date": "2026-07-03",
+        "predicted_usage": 92.0
+      },
+      {
+        "date": "2026-07-04",
+        "predicted_usage": 93.0
+      },
+      {
+        "date": "2026-07-05",
+        "predicted_usage": 94.0
+      },
+      {
+        "date": "2026-07-06",
+        "predicted_usage": 95.0
+      },
+      {
+        "date": "2026-07-07",
+        "predicted_usage": 96.0
+      },
+      {
+        "date": "2026-07-08",
+        "predicted_usage": 97.0
+      },
+      {
+        "date": "2026-07-09",
+        "predicted_usage": 98.0
+      },
+      {
+        "date": "2026-07-10",
+        "predicted_usage": 99.0
+      },
+      {
+        "date": "2026-07-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-29",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-30",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-06",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-07",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-08",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-09",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-10",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-29",
+        "predicted_usage": 100
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: linear regression",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  },
+  {
+    "id": "YLxdme0yihg",
+    "created_at": "2026-06-06T14:20:02.163699",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is forecasted to reach 80% around 2026-07-01 (using arima).",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": "2026-07-01",
+    "forecast_engine": "arima",
+    "forecast_days": 60,
+    "method": "auto",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "usage": 60.0
+      },
+      {
+        "date": "2026-06-02",
+        "usage": 61.0
+      },
+      {
+        "date": "2026-06-03",
+        "usage": 62.0
+      },
+      {
+        "date": "2026-06-04",
+        "usage": 63.0
+      },
+      {
+        "date": "2026-06-05",
+        "usage": 64.0
+      },
+      {
+        "date": "2026-06-06",
+        "usage": 65.0
+      },
+      {
+        "date": "2026-06-07",
+        "usage": 66.0
+      },
+      {
+        "date": "2026-06-08",
+        "usage": 67.0
+      },
+      {
+        "date": "2026-06-09",
+        "usage": 68.0
+      },
+      {
+        "date": "2026-06-10",
+        "usage": 69.0
+      },
+      {
+        "date": "2026-06-11",
+        "usage": 70.0
+      },
+      {
+        "date": "2026-06-12",
+        "usage": 71.0
+      },
+      {
+        "date": "2026-06-13",
+        "usage": 72.0
+      },
+      {
+        "date": "2026-06-14",
+        "usage": 73.0
+      },
+      {
+        "date": "2026-06-15",
+        "usage": 74.0
+      },
+      {
+        "date": "2026-06-16",
+        "usage": 75.0
+      },
+      {
+        "date": "2026-06-17",
+        "usage": 76.0
+      },
+      {
+        "date": "2026-06-18",
+        "usage": 77.0
+      },
+      {
+        "date": "2026-06-19",
+        "usage": 78.0
+      },
+      {
+        "date": "2026-06-20",
+        "usage": 79.0
+      },
+      {
+        "date": "2026-06-21",
+        "usage": 80.0
+      },
+      {
+        "date": "2026-06-22",
+        "usage": 81.0
+      },
+      {
+        "date": "2026-06-23",
+        "usage": 82.0
+      },
+      {
+        "date": "2026-06-24",
+        "usage": 83.0
+      },
+      {
+        "date": "2026-06-25",
+        "usage": 84.0
+      },
+      {
+        "date": "2026-06-26",
+        "usage": 85.0
+      },
+      {
+        "date": "2026-06-27",
+        "usage": 86.0
+      },
+      {
+        "date": "2026-06-28",
+        "usage": 87.0
+      },
+      {
+        "date": "2026-06-29",
+        "usage": 88.0
+      },
+      {
+        "date": "2026-06-30",
+        "usage": 89.0
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-07-01",
+        "predicted_usage": 90.0
+      },
+      {
+        "date": "2026-07-02",
+        "predicted_usage": 91.0
+      },
+      {
+        "date": "2026-07-03",
+        "predicted_usage": 92.0
+      },
+      {
+        "date": "2026-07-04",
+        "predicted_usage": 93.0
+      },
+      {
+        "date": "2026-07-05",
+        "predicted_usage": 94.0
+      },
+      {
+        "date": "2026-07-06",
+        "predicted_usage": 95.0
+      },
+      {
+        "date": "2026-07-07",
+        "predicted_usage": 96.0
+      },
+      {
+        "date": "2026-07-08",
+        "predicted_usage": 97.0
+      },
+      {
+        "date": "2026-07-09",
+        "predicted_usage": 97.99
+      },
+      {
+        "date": "2026-07-10",
+        "predicted_usage": 98.99
+      },
+      {
+        "date": "2026-07-11",
+        "predicted_usage": 99.99
+      },
+      {
+        "date": "2026-07-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-29",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-30",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-06",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-07",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-08",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-09",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-10",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-29",
+        "predicted_usage": 100
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: arima",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  },
+  {
+    "id": "p-ho6pS_X3s",
+    "created_at": "2026-06-06T14:19:41.273099",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is forecasted to reach 80% around 2026-07-01 (using arima).",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": "2026-07-01",
+    "forecast_engine": "arima",
+    "forecast_days": 60,
+    "method": "auto",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "usage": 60.0
+      },
+      {
+        "date": "2026-06-02",
+        "usage": 61.0
+      },
+      {
+        "date": "2026-06-03",
+        "usage": 62.0
+      },
+      {
+        "date": "2026-06-04",
+        "usage": 63.0
+      },
+      {
+        "date": "2026-06-05",
+        "usage": 64.0
+      },
+      {
+        "date": "2026-06-06",
+        "usage": 65.0
+      },
+      {
+        "date": "2026-06-07",
+        "usage": 66.0
+      },
+      {
+        "date": "2026-06-08",
+        "usage": 67.0
+      },
+      {
+        "date": "2026-06-09",
+        "usage": 68.0
+      },
+      {
+        "date": "2026-06-10",
+        "usage": 69.0
+      },
+      {
+        "date": "2026-06-11",
+        "usage": 70.0
+      },
+      {
+        "date": "2026-06-12",
+        "usage": 71.0
+      },
+      {
+        "date": "2026-06-13",
+        "usage": 72.0
+      },
+      {
+        "date": "2026-06-14",
+        "usage": 73.0
+      },
+      {
+        "date": "2026-06-15",
+        "usage": 74.0
+      },
+      {
+        "date": "2026-06-16",
+        "usage": 75.0
+      },
+      {
+        "date": "2026-06-17",
+        "usage": 76.0
+      },
+      {
+        "date": "2026-06-18",
+        "usage": 77.0
+      },
+      {
+        "date": "2026-06-19",
+        "usage": 78.0
+      },
+      {
+        "date": "2026-06-20",
+        "usage": 79.0
+      },
+      {
+        "date": "2026-06-21",
+        "usage": 80.0
+      },
+      {
+        "date": "2026-06-22",
+        "usage": 81.0
+      },
+      {
+        "date": "2026-06-23",
+        "usage": 82.0
+      },
+      {
+        "date": "2026-06-24",
+        "usage": 83.0
+      },
+      {
+        "date": "2026-06-25",
+        "usage": 84.0
+      },
+      {
+        "date": "2026-06-26",
+        "usage": 85.0
+      },
+      {
+        "date": "2026-06-27",
+        "usage": 86.0
+      },
+      {
+        "date": "2026-06-28",
+        "usage": 87.0
+      },
+      {
+        "date": "2026-06-29",
+        "usage": 88.0
+      },
+      {
+        "date": "2026-06-30",
+        "usage": 89.0
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-07-01",
+        "predicted_usage": 90.0
+      },
+      {
+        "date": "2026-07-02",
+        "predicted_usage": 91.0
+      },
+      {
+        "date": "2026-07-03",
+        "predicted_usage": 92.0
+      },
+      {
+        "date": "2026-07-04",
+        "predicted_usage": 93.0
+      },
+      {
+        "date": "2026-07-05",
+        "predicted_usage": 94.0
+      },
+      {
+        "date": "2026-07-06",
+        "predicted_usage": 95.0
+      },
+      {
+        "date": "2026-07-07",
+        "predicted_usage": 96.0
+      },
+      {
+        "date": "2026-07-08",
+        "predicted_usage": 97.0
+      },
+      {
+        "date": "2026-07-09",
+        "predicted_usage": 97.99
+      },
+      {
+        "date": "2026-07-10",
+        "predicted_usage": 98.99
+      },
+      {
+        "date": "2026-07-11",
+        "predicted_usage": 99.99
+      },
+      {
+        "date": "2026-07-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-29",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-30",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-06",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-07",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-08",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-09",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-10",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-29",
+        "predicted_usage": 100
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: arima",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  },
+  {
+    "id": "gIglOEXbRZE",
+    "created_at": "2026-06-06T14:18:57.534531",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is forecasted to reach 80% around 2026-07-01 (using arima).",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": "2026-07-01",
+    "forecast_engine": "arima",
+    "forecast_days": 60,
+    "method": "auto",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "usage": 60.0
+      },
+      {
+        "date": "2026-06-02",
+        "usage": 61.0
+      },
+      {
+        "date": "2026-06-03",
+        "usage": 62.0
+      },
+      {
+        "date": "2026-06-04",
+        "usage": 63.0
+      },
+      {
+        "date": "2026-06-05",
+        "usage": 64.0
+      },
+      {
+        "date": "2026-06-06",
+        "usage": 65.0
+      },
+      {
+        "date": "2026-06-07",
+        "usage": 66.0
+      },
+      {
+        "date": "2026-06-08",
+        "usage": 67.0
+      },
+      {
+        "date": "2026-06-09",
+        "usage": 68.0
+      },
+      {
+        "date": "2026-06-10",
+        "usage": 69.0
+      },
+      {
+        "date": "2026-06-11",
+        "usage": 70.0
+      },
+      {
+        "date": "2026-06-12",
+        "usage": 71.0
+      },
+      {
+        "date": "2026-06-13",
+        "usage": 72.0
+      },
+      {
+        "date": "2026-06-14",
+        "usage": 73.0
+      },
+      {
+        "date": "2026-06-15",
+        "usage": 74.0
+      },
+      {
+        "date": "2026-06-16",
+        "usage": 75.0
+      },
+      {
+        "date": "2026-06-17",
+        "usage": 76.0
+      },
+      {
+        "date": "2026-06-18",
+        "usage": 77.0
+      },
+      {
+        "date": "2026-06-19",
+        "usage": 78.0
+      },
+      {
+        "date": "2026-06-20",
+        "usage": 79.0
+      },
+      {
+        "date": "2026-06-21",
+        "usage": 80.0
+      },
+      {
+        "date": "2026-06-22",
+        "usage": 81.0
+      },
+      {
+        "date": "2026-06-23",
+        "usage": 82.0
+      },
+      {
+        "date": "2026-06-24",
+        "usage": 83.0
+      },
+      {
+        "date": "2026-06-25",
+        "usage": 84.0
+      },
+      {
+        "date": "2026-06-26",
+        "usage": 85.0
+      },
+      {
+        "date": "2026-06-27",
+        "usage": 86.0
+      },
+      {
+        "date": "2026-06-28",
+        "usage": 87.0
+      },
+      {
+        "date": "2026-06-29",
+        "usage": 88.0
+      },
+      {
+        "date": "2026-06-30",
+        "usage": 89.0
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-07-01",
+        "predicted_usage": 90.0
+      },
+      {
+        "date": "2026-07-02",
+        "predicted_usage": 91.0
+      },
+      {
+        "date": "2026-07-03",
+        "predicted_usage": 92.0
+      },
+      {
+        "date": "2026-07-04",
+        "predicted_usage": 93.0
+      },
+      {
+        "date": "2026-07-05",
+        "predicted_usage": 94.0
+      },
+      {
+        "date": "2026-07-06",
+        "predicted_usage": 95.0
+      },
+      {
+        "date": "2026-07-07",
+        "predicted_usage": 96.0
+      },
+      {
+        "date": "2026-07-08",
+        "predicted_usage": 97.0
+      },
+      {
+        "date": "2026-07-09",
+        "predicted_usage": 97.99
+      },
+      {
+        "date": "2026-07-10",
+        "predicted_usage": 98.99
+      },
+      {
+        "date": "2026-07-11",
+        "predicted_usage": 99.99
+      },
+      {
+        "date": "2026-07-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-29",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-30",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-06",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-07",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-08",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-09",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-10",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-11",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-12",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-13",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-14",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-15",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-16",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-17",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-18",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-19",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-20",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-21",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-22",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-23",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-24",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-25",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-26",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-27",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-28",
+        "predicted_usage": 100
+      },
+      {
+        "date": "2026-08-29",
+        "predicted_usage": 100
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: arima",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  },
+  {
+    "id": "i8A9NJkp8G0",
+    "created_at": "2026-06-06T14:18:16.900719",
+    "question": "When does disk hit 80%?",
+    "answer": "Disk usage is not expected to reach 80% within the next 60 days.",
+    "metric": "disk_usage",
+    "threshold": 80.0,
+    "crossing_date": null,
+    "forecast_engine": "arima",
+    "forecast_days": 60,
+    "method": "auto",
+    "history": [
+      {
+        "date": "2024-05-30",
+        "usage": 68.51
+      },
+      {
+        "date": "2024-05-31",
+        "usage": 68.34
+      },
+      {
+        "date": "2024-06-01",
+        "usage": 70.22
+      },
+      {
+        "date": "2024-06-02",
+        "usage": 67.16
+      },
+      {
+        "date": "2024-06-03",
+        "usage": 69.57
+      },
+      {
+        "date": "2024-06-04",
+        "usage": 70.89
+      },
+      {
+        "date": "2024-06-05",
+        "usage": 68.3
+      },
+      {
+        "date": "2024-06-06",
+        "usage": 70.2
+      },
+      {
+        "date": "2024-06-07",
+        "usage": 69.85
+      },
+      {
+        "date": "2024-06-08",
+        "usage": 70.17
+      },
+      {
+        "date": "2024-06-09",
+        "usage": 70.52
+      },
+      {
+        "date": "2024-06-10",
+        "usage": 70.77
+      },
+      {
+        "date": "2024-06-11",
+        "usage": 70.15
+      },
+      {
+        "date": "2024-06-12",
+        "usage": 72.51
+      },
+      {
+        "date": "2024-06-13",
+        "usage": 72.16
+      },
+      {
+        "date": "2024-06-14",
+        "usage": 73.24
+      },
+      {
+        "date": "2024-06-15",
+        "usage": 71.02
+      },
+      {
+        "date": "2024-06-16",
+        "usage": 72.48
+      },
+      {
+        "date": "2024-06-17",
+        "usage": 73.64
+      },
+      {
+        "date": "2024-06-18",
+        "usage": 73.7
+      },
+      {
+        "date": "2024-06-19",
+        "usage": 72.0
+      },
+      {
+        "date": "2024-06-20",
+        "usage": 73.4
+      },
+      {
+        "date": "2024-06-21",
+        "usage": 73.42
+      },
+      {
+        "date": "2024-06-22",
+        "usage": 73.62
+      },
+      {
+        "date": "2024-06-23",
+        "usage": 72.09
+      },
+      {
+        "date": "2024-06-24",
+        "usage": 71.71
+      },
+      {
+        "date": "2024-06-25",
+        "usage": 72.56
+      },
+      {
+        "date": "2024-06-26",
+        "usage": 73.14
+      },
+      {
+        "date": "2024-06-27",
+        "usage": 74.96
+      },
+      {
+        "date": "2024-06-28",
+        "usage": 75.75
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2024-06-29",
+        "predicted_usage": 74.62
+      },
+      {
+        "date": "2024-06-30",
+        "predicted_usage": 74.84
+      },
+      {
+        "date": "2024-07-01",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-02",
+        "predicted_usage": 74.81
+      },
+      {
+        "date": "2024-07-03",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-04",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-05",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-06",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-07",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-08",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-09",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-10",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-11",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-12",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-13",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-14",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-15",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-16",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-17",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-18",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-19",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-20",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-21",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-22",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-23",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-24",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-25",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-26",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-27",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-28",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-29",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-30",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-07-31",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-01",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-02",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-03",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-04",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-05",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-06",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-07",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-08",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-09",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-10",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-11",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-12",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-13",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-14",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-15",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-16",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-17",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-18",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-19",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-20",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-21",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-22",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-23",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-24",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-25",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-26",
+        "predicted_usage": 74.8
+      },
+      {
+        "date": "2024-08-27",
+        "predicted_usage": 74.8
+      }
+    ],
+    "agent_steps": [
+      "Received natural language question",
+      "Parsed metric column: disk_usage",
+      "Parsed threshold: 80%",
+      "Selected forecast engine: arima",
+      "Generated forecast and crossing date",
+      "Prepared chart data and textual answer"
+    ]
+  }
+]

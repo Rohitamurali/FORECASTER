@@ -1,4 +1,7 @@
 # Capacity Forecaster with Natural Language Querying (IM-02)
+##DEMO LINK
+https://www.loom.com/share/646ea7086e9442dfa3c6f6716869de55
+
 
 ## Overview
 
@@ -497,3 +500,36 @@ Starts the FastAPI backend server.
 
 ---
 ## start-frontend.bat
+Starts the React frontend application.
+
+---
+
+# Future Enhancements
+
+* LSTM Forecasting
+* Multi-Server Capacity Planning
+* Email Notifications
+* Slack Alerts
+* Docker Deployment
+* Cloud Deployment
+* Real-Time Monitoring
+* Advanced Analytics Dashboard
+
+---
+
+# Business Benefits
+
+* Predict future resource shortages.
+* Reduce infrastructure downtime.
+* Improve capacity planning.
+* Optimize cloud costs.
+* Enable proactive infrastructure management.
+* Simplify forecasting through natural language queries.
+
+---
+
+# License
+
+This project is developed for educational, research, internship, and demonstration purposes.
+
+
